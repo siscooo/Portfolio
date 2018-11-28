@@ -253,3 +253,7 @@ body {
       width: 100%;
   }
 }
+#profilepic {
+  width: 100%;
+  height: auto;
+}
