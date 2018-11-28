@@ -253,7 +253,13 @@ body {
       width: 100%;
   }
 }
+
 #profilepic {
+  width: 100%;
+  height: auto;
+}
+
+.project {
   width: 100%;
   height: auto;
 }
