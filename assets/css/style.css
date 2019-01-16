@@ -200,13 +200,6 @@ body {
   
   /* contact page */
   
-  #contact-form ul {
-    margin-bottom: 20px;
-  }
-  
-  #contact-form li {
-    margin-bottom: 10px;
-  }
   
   label,
   input[type=text],
